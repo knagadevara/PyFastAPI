@@ -1,3 +1,11 @@
+# Virtual Enviornment
+f_api/bin
+f_api/include
+f_api/lib
+f_api/lib64
+f_api/share
+*.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
